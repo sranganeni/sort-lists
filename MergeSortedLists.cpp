@@ -7,8 +7,6 @@
 
 using namespace std;
 
-
-
 typedef struct _Node {
     int val;
     struct _Node* next;
